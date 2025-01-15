@@ -1,6 +1,6 @@
 package org.titoutan.demo.enums;
 
-public enum Roles {
+public enum Role {
     MODERATOR,
     PUBLISHER
 }
